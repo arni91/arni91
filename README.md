@@ -1,6 +1,6 @@
 ### Hi, I'm arni91 👋
 
-Industrial engineer · industrial automation and IT/OT integration (PLC, SCADA, MES, WCS/WMS).
+Industrial engineer · industrial automation and IT/OT integration (PLC, SCADA, MES, ERP, WCS/WMS).
 
 #### Projects
 
