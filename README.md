@@ -13,3 +13,7 @@ Industrial engineer · industrial automation and IT/OT integration (PLC, SCADA, 
 Private repositories available on request.
 
 Tests, type checking and CI on every project.
+
+#### Learning
+
+Courses and exercises (Ironhack web development bootcamp, AI-assisted development with Spec-Driven Development): [arni91-curso-dev](https://github.com/arni91-curso-dev).
